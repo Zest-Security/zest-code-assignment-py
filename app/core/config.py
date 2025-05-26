@@ -23,4 +23,4 @@ def setup_logging():
             logging.FileHandler('task_processing.log'),
             logging.StreamHandler()
         ]
-    ) 
+    )
